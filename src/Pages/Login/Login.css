@@ -1,0 +1,9 @@
+.google-btn {
+  color: #000000 !important;
+  border: 2px solid #9f7a49;
+  font-weight: 700;
+}
+.google-btn:hover {
+  color: red !important;
+  border: 2px solid black;
+}
