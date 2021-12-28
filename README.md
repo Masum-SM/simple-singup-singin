@@ -3,10 +3,11 @@
 ## Google Login
 [Live Link] (https://simple-authentication-lue.netlify.app/)
 ## Used Language
-- HTML <br/>
--CSS\n
--JavaScript\n
--Boostrap\n
--React\n
--Firebase\n
--SweetAlart
+- HTML 
+- CSS <br/>
+- Boostrap <br/>
+- JavaScript <br/>
+- React <br/>
+- Firebase <br/>
+- SweetAlart
+
